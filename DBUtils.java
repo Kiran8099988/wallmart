@@ -1,1 +1,1 @@
-this files contains the database utility programms
+this files contains the database utilities
